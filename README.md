@@ -1,13 +1,14 @@
-# OpenGLRenderingEngine
-![ScreenShot](/res/sample.png)
-<br/>
-3D real time rendering engine in python 
-It focuses on Rendering 3D objects on display in real time .<br/>
-It uses Opengl graphics api to take advantage gpu hardware .<br>
-Learn more about opengl here 
-[learnOpenGL](https://learnopengl.com/)
+# OpenGL Rendering Engine
+```
+3D Real Time Rendering Engine in Python
+It focuses on Rendering 3D objects on display in real time with high performance
+It uses OpenGL Graphics Api to Take Advantage of GPU Hardware
+It uses OpenGL Graphics API to Take Advantage of GPU Hardware
+```
+Learn More About OpenGL [HERE](https://learnopengl.com/)
 
-# Build Instructions
+<h3 align="left">Contact:</h3>
 
-Just run setup.sh to install all dependencies<br/>
+![KingKrex#4235](https://discord.c99.nl/widget/theme-2/990353956658090020.png)
 
+📫 My Discord Server: https://discord.gg/FvyEuNQ7quu
