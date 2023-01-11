@@ -1,8 +1,5 @@
 # OpenGL Rendering Engine
 ```
-3D Real Time Rendering Engine in Python
-It focuses on Rendering 3D objects on display in real time with high performance
-It uses OpenGL Graphics Api to Take Advantage of GPU Hardware
 It uses OpenGL Graphics API to Take Advantage of GPU Hardware
 ```
 Learn More About OpenGL [HERE](https://learnopengl.com/)
