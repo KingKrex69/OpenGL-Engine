@@ -1,4 +1,4 @@
-# OpenGL Rendering Engine
+## OpenGL Rendering Engine
 ```
 It uses OpenGL Graphics API to Take Advantage of GPU Hardware
 ```
